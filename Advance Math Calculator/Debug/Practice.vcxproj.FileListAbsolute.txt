@@ -1,0 +1,4 @@
+D:\PROJECT\Programming\C++\Practice\Practice\Debug\Practice.exe
+D:\PROJECT\Programming\C++\Practice\Practice\Debug\Practice.pdb
+D:\PROJECT\Programming\C++\Advance Math Calculator\Advance Math Calculator\Debug\Practice.exe
+D:\PROJECT\Programming\C++\Advance Math Calculator\Advance Math Calculator\Debug\Practice.pdb
